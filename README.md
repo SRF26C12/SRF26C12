@@ -6,7 +6,7 @@ Meu nome é Stephany Rodrigues Faco
 -Estou me desenvolvendo na linguagem JavaScript
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
-*** você entrar em contato comigo 📧
+*** você pode entrar em contato comigo 📧
 
 stephanyfaco@gmail.com
 
